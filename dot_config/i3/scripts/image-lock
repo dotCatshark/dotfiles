@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+# i3lock screenlocker that uses an image instead of a blurred screenshot
+
+PICTURE=~/.wallpaper/moebius_tree_night.png
+
+i3lock -i $PICTURE
